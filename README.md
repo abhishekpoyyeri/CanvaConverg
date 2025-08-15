@@ -1,12 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎨 ArtistConnect – Global Artist Networking Platform
 
-Currently, two official plugins are available:
+ArtistConnect is a global platform designed to bring artists and art lovers together. It enables event hosting, ticket booking, and features a vibrant online art gallery where artists can showcase their work. Powered by AI, the platform analyzes user interests and recommends artists they may want to connect with, making art discovery more personal and engaging.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## Expanding the ESLint configuration
+🌍 Global Artist Network – Connect with artists from around the world.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📅 Event Hosting – Create and manage art-related events with ease.
+
+🎟 Ticket Booking – Seamless booking system for events.
+
+🖼 Online Art Gallery – Showcase and explore artworks from diverse creators.
+
+🤖 AI Recommendations – Smart suggestions to match users with artists based on interests.
